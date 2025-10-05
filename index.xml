@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>庆长安</title>
+    <link>https://qingchangan421.github.io/</link>
+    <description>Recent content on 庆长安</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <managingEditor>qingchangan.cc@outlook.com (庆长安)</managingEditor>
+    <webMaster>qingchangan.cc@outlook.com (庆长安)</webMaster>
+    <copyright>© 2025 - 2025 庆长安 All Rights Reserved.</copyright>
+    <lastBuildDate>Sun, 05 Oct 2025 20:19:29 +0800</lastBuildDate><atom:link href="https://qingchangan421.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>初见 - hugo</title>
+      <link>https://qingchangan421.github.io/posts/hellohugo/</link>
+      <pubDate>Sun, 05 Oct 2025 20:19:29 +0800</pubDate>
+      <author>qingchangan.cc@outlook.com (庆长安)</author>
+      <guid>https://qingchangan421.github.io/posts/hellohugo/</guid>
+      <description></description>
+      
+    </item>
+    
+  </channel>
+</rss>
