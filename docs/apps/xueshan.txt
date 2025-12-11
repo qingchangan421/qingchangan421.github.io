@@ -1,0 +1,20 @@
+
+		<div id="ndlt">苏轼 · 题金山寺</div>
+		<!-- 诗词标题 -->
+		<h3
+			style="text-align: center; margin: 10px 0; font-weight: normal; font-size: 20px; color: #f0f0f0; text-shadow: 0 0 2px #000;">
+			题金山寺</h3>
+		<!-- 诗词正文 - 同步微调适配深色背景 -->
+		<div style="text-align: center; color: #e0e0e0;">
+			<!-- 诗词正文 -->
+			<p style="margin: 5px 0;">潮随暗浪雪山倾，</p>
+			<p style="margin: 5px 0;">远浦渔舟钓月明。</p>
+			<p style="margin: 5px 0;">桥对寺门松径小，</p>
+			<p style="margin: 5px 0;">槛当泉眼石波清。</p>
+			<p style="margin: 5px 0;">迢迢绿树江天晓，</p>
+			<p style="margin: 5px 0;">霭霭红霞海日晴。</p>
+			<p style="margin: 5px 0;">遥望四边云接水，</p>
+			<p style="margin: 5px 0;">碧峰千点数鸥轻。</p>
+		</div>
+		<!-- 可选落款 -->
+		<p style="text-align: right; margin: 10px 20px 0 0; font-size: 16px; color: #7f8c8d;">—— 宋·苏轼</p>
